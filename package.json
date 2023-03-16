@@ -1,0 +1,19 @@
+{
+    "name": "create-tilset-template",
+    "displayName": "Create Tileset Template",
+    "version": "1.0",
+    "description": "Adds a button to create a new file with the an template for a 3x3 minimal 16x61px tilseset",
+    "author": {
+        "name": "Louis W",
+        "url": "https://louisweigel.com",
+        "email": "priat@louisweigel.com"
+    },
+    "publisher": "Louis W",
+    "license": "CC-BY-NC-SA-4.0",
+    "categories": [ "Scripts" ],
+    "contributes": {
+        "scripts": [
+            { "path": "./main.lua" }
+        ]
+    }
+}
